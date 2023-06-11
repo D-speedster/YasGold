@@ -1,0 +1,19 @@
+.img-bod{
+    border-radius: 5%;
+}
+
+.card-titlep{
+    color: #FF8FB1;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.underline_style{
+    max-width: 50%;
+    margin-top: -7px;
+}
+.card-texts{
+    cursor: pointer;
+    color: #333;
+    margin-top: 15px;
+}
